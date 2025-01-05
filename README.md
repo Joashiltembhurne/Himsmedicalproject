@@ -1,2 +1,10 @@
+Hospital Management System Database Project
+Designed and implemented a Hospital Management System to maintain hospital and patient information using SQL Oracle. Mock data is inserted to simulate the physical database model.
 
-Himsmedicalproject is a robust Hospital Information Management System (HIMS) that centralizes patient management, appointment scheduling, billing, inventory, laboratory information, and reporting. It enhances efficiency, accuracy, and patient satisfaction through seamless automation and communication.
+Getting Started
+Prerequisites
+Things you need to install:
+
+SQL Oracle
+Installing
+Clone the repository
